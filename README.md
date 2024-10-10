@@ -1,0 +1,2 @@
+# Java exercise: “Le générateur de mot de passe sécurisé”
+A company has asked you to develop a secure password generator. The program must generate a password of a length given by the user. The password must contain upper case letters, lower case letters, numbers and special symbols. You must also check that the generated password respects these criteria.
